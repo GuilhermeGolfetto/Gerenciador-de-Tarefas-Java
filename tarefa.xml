@@ -1,0 +1,21 @@
+<Lista Tarefas>
+  <lista>
+    <Tarefa>
+      <Nome> comprar pao</Nome>
+      <Descricao>hoje</Descricao>
+      <Prazo>22/11/2015</Prazo>
+      <Prioridade>Baixa</Prioridade>
+      <Concluida>Sim</Concluida>
+    </Tarefa>
+  </lista>
+</Lista Tarefas><Lista Tarefas>
+  <lista>
+    <Tarefa>
+      <Nome>comprar celular</Nome>
+      <Descricao>iphone 6s</Descricao>
+      <Prazo>25/12/2015</Prazo>
+      <Prioridade>Alta</Prioridade>
+      <Concluida>Sim</Concluida>
+    </Tarefa>
+  </lista>
+</Lista Tarefas>
